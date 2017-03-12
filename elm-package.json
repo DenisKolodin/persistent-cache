@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "summary": "Persistent cache, exposing the localStorage browser API",
     "repository": "http://github.com/elm-lang/persistent-cache.git",
     "license": "BSD3",
